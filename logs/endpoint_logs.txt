@@ -1,0 +1,58 @@
+INFO [2023-08-01 18:23:42.524837]: Index.html page requested.
+INFO [2023-08-01 18:23:42.524837]: Searching flipkart for realme%20pad%20x.
+ERROR [2023-08-01 18:23:42.524837]: Error occurred python script name [app.py] line number [67] error message [list index out of range].
+ERROR [2023-08-01 18:23:42.524837]: Error occurred python script name [app.py] line number [102] error message [list index out of range].
+ERROR [2023-08-01 18:23:42.524837]: Error occurred python script name [app.py] line number [67] error message [list index out of range].
+INFO [2023-08-01 18:23:42.524837]: Index.html page requested.
+INFO [2023-08-01 18:23:42.524837]: Searching flipkart for apple%20iphone%2012%20(Black,%20128%20GB).
+ERROR [2023-08-01 18:23:42.524837]: Error occurred python script name [app.py] line number [67] error message [list index out of range].
+ERROR [2023-08-01 18:23:42.524837]: Error occurred python script name [app.py] line number [84] error message ['ImageDraw' object has no attribute 'textsize'].
+ERROR [2023-08-01 18:23:42.524837]: Error occurred python script name [app.py] line number [84] error message ['ImageDraw' object has no attribute 'textsize'].
+ERROR [2023-08-01 18:38:54.007718]: Error occurred python script name [app.py] line number [85] error message [name 'rev' is not defined].
+ERROR [2023-08-01 18:38:54.007718]: Error occurred python script name [app.py] line number [85] error message [name 'rev' is not defined].
+ERROR [2023-08-01 18:38:54.007718]: Error occurred python script name [app.py] line number [85] error message [name 'rev' is not defined].
+ERROR [2023-08-01 18:38:54.007718]: Error occurred python script name [app.py] line number [85] error message [name 'rev' is not defined].
+ERROR [2023-08-01 18:38:54.007718]: Error occurred python script name [app.py] line number [85] error message [name 'rev' is not defined].
+ERROR [2023-08-01 18:57:49.046066]: Error occurred python script name [app.py] line number [86] error message ['APPLE iPhone 13 (Midnight, 128 GB'].
+ERROR [2023-08-01 18:57:49.046066]: Error occurred python script name [app.py] line number [86] error message ['ImageDraw' object has no attribute 'textsize'].
+ERROR [2023-08-01 18:57:49.046066]: Error occurred python script name [app.py] line number [86] error message ['ImageDraw' object has no attribute 'textsize'].
+INFO [2023-08-01 18:57:49.046066]: Index.html page requested.
+INFO [2023-08-01 18:57:49.046066]: Index.html page requested.
+INFO [2023-08-01 18:57:49.046066]: Searching flipkart for iphone.
+INFO [2023-08-01 18:57:49.046066]: Index.html page requested.
+INFO [2023-08-01 18:57:49.046066]: Index.html page requested.
+INFO [2023-08-01 18:57:49.046066]: Searching flipkart for iphone.
+INFO [2023-08-01 18:57:49.046066]: Searching flipkart for iphone.
+INFO [2023-08-01 19:09:50.260080]: Index.html page requested.
+INFO [2023-08-01 19:09:50.260080]: Searching flipkart for iphone.
+ERROR [2023-08-01 19:09:50.260080]: Error occurred python script name [app.py] line number [83] error message ['APPLE iPhone 11 (Black, 128 GB) '].
+ERROR [2023-08-01 19:09:50.260080]: Error occurred python script name [app.py] line number [83] error message ['APPLE iPhone 11 (Black, 64 GB) '].
+ERROR [2023-08-01 19:09:50.260080]: Error occurred python script name [app.py] line number [83] error message ['APPLE iPhone 11 (Black, 64 GB) '].
+INFO [2023-08-01 19:12:03.159646]: Index.html page requested.
+INFO [2023-08-01 19:12:03.159646]: Index.html page requested.
+INFO [2023-08-01 19:12:03.159646]: Searching flipkart for iphone.
+INFO [2023-08-01 19:12:37.707666]: Index.html page requested.
+INFO [2023-08-01 19:12:37.707666]: Searching flipkart for samsung%20tv.
+ERROR [2023-08-01 19:12:37.707666]: Error occurred python script name [app.py] line number [67] error message [list index out of range].
+INFO [2023-08-01 19:13:43.963761]: Searching flipkart for samsung%20tv.
+ERROR [2023-08-01 19:13:43.963761]: Error occurred python script name [app.py] line number [68] error message [list index out of range].
+ERROR [2023-08-01 19:15:35.226459]: Error occurred python script name [app.py] line number [68] error message [list index out of range].
+ERROR [2023-08-01 19:15:48.432316]: Error occurred python script name [app.py] line number [68] error message [list index out of range].
+ERROR [2023-08-01 19:16:06.852969]: Error occurred python script name [app.py] line number [69] error message [list index out of range].
+ERROR [2023-08-01 19:17:34.267732]: Error occurred python script name [app.py] line number [85] error message [list index out of range].
+ERROR [2023-08-01 19:18:31.520717]: Error occurred python script name [app.py] line number [84] error message ['str' object has no attribute 'content'].
+ERROR [2023-08-01 19:19:01.860175]: Error occurred python script name [app.py] line number [84] error message ['str' object has no attribute 'content'].
+ERROR [2023-08-01 19:19:01.860175]: Error occurred python script name [app.py] line number [84] error message ['str' object has no attribute 'content'].
+ERROR [2023-08-01 19:19:01.860175]: Error occurred python script name [app.py] line number [84] error message ['str' object has no attribute 'content'].
+ERROR [2023-08-01 19:19:55.310252]: Error occurred python script name [app.py] line number [86] error message [list index out of range].
+INFO [2023-08-01 19:20:28.501916]: Index.html page requested.
+INFO [2023-08-01 19:20:28.501916]: Searching flipkart for samsung%20tv.
+INFO [2023-08-01 19:22:18.701834]: Index.html page requested.
+INFO [2023-08-01 19:22:18.701834]: Searching flipkart for samsung%20tv.
+INFO [2023-08-01 19:24:17.649922]: Index.html page requested.
+INFO [2023-08-01 19:24:17.649922]: Searching flipkart for redmi%20note%2010.
+INFO [2023-08-01 19:25:18.596767]: Index.html page requested.
+INFO [2023-08-01 19:25:18.596767]: Searching flipkart for iphone.
+INFO [2023-08-01 19:25:18.596767]: Index.html page requested.
+INFO [2023-08-01 19:25:18.596767]: Searching flipkart for iphone.
+ERROR [2023-08-01 19:25:18.596767]: Error occurred python script name [app.py] line number [86] error message ['APPLE iPhone 12 (Black, 128 GB)'].

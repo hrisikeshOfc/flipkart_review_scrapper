@@ -1,0 +1,40 @@
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data realme%20pad%20x from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for realme%20pad%20x.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data realme%20pad%20x from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for realme%20pad%20x.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data realme%20pad%20x from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for realme%20pad%20x.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data realme%20pad%20x from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for realme%20pad%20x.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data realme%20pad%20x from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for realme%20pad%20x.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data apple%20iphone%2012%20(Black,%20128%20GB) from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for apple%20iphone%2012%20(Black,%20128%20GB).
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data apple%20iphone%2012%20(Black,%20128%20GB) from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for apple%20iphone%2012%20(Black,%20128%20GB).
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data apple%20iphone%2012%20(Black,%20128%20GB) from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for apple%20iphone%2012%20(Black,%20128%20GB).
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data apple%20iphone%2012%20(Black,%20128%20GB) from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for apple%20iphone%2012%20(Black,%20128%20GB).
+INFO [2023-08-01 18:23:41.783216]: Scrapping Data apple%20iphone%2012%20(Black,%20128%20GB) from Flipkart.
+INFO [2023-08-01 18:23:41.783216]: Scrapping Completed for apple%20iphone%2012%20(Black,%20128%20GB).
+INFO [2023-08-01 19:12:37.406118]: Scrapping Data samsung%20tv from Flipkart.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Completed for samsung%20tv.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Data samsung%20tv from Flipkart.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Completed for samsung%20tv.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Data samsung%20tv from Flipkart.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Completed for samsung%20tv.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Data samsung%20tv from Flipkart.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Completed for samsung%20tv.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Data samsung%20tv from Flipkart.
+INFO [2023-08-01 19:12:37.406118]: Scrapping Completed for samsung%20tv.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Data redmi%20note%2010 from Flipkart.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Completed for redmi%20note%2010.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Data redmi%20note%2010 from Flipkart.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Completed for redmi%20note%2010.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Data redmi%20note%2010 from Flipkart.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Completed for redmi%20note%2010.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Data redmi%20note%2010 from Flipkart.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Completed for redmi%20note%2010.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Data redmi%20note%2010 from Flipkart.
+INFO [2023-08-01 19:24:17.331369]: Scrapping Completed for redmi%20note%2010.
